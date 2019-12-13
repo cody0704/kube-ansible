@@ -25,6 +25,7 @@ Fork: ![kairen/kube-ansible](https://github.com/kairen/kube-ansible)
 ## SELinux
 
 > 允許 containers 連到 host
+> 是否可以不開 待測...
 
 ```
 setenforce 0
