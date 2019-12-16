@@ -1,6 +1,6 @@
 # Kube-Ansible
 
-Fork: ![kairen/kube-ansible](https://github.com/kairen/kube-ansible)
+Fork: [kairen/kube-ansible](https://github.com/kairen/kube-ansible)
 
 ## Hardware/Software
 
